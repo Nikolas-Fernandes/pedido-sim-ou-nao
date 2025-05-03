@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(to right, #ffccd5, #ffd6dc);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+  }
+  
+  .card {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    text-align: center;
+    position: relative;
+    width: 300px;
+    height: 200px;
+  }
+  
+  h2 {
+    color: #d6005a;
+    margin: 20px 0;
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    position: relative;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 2px solid #333;
+    background-color: #ffe4e1;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    position: relative;
+  }
+  
+  #nao {
+    left: -10px;
+    top: 0;
+  }
+  
+  .emoji {
+    font-size: 60px;
+  }
+  
