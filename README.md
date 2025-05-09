@@ -4,8 +4,8 @@
 
 Este é um projeto leve e divertido de **pedido de namoro interativo**. Basta compartilhar o link para surpreender a pessoa que você gosta com uma experiência única e romântica. 😍
 
-![Imagem 1](https://i.imgur.com/00hDoMJ.png) 
-![Imagem 2](https://i.imgur.com/dHBnLGf.png) 
+![Imagem 1](https://i.imgur.com/EPeTlLB.png) 
+![Imagem 2](https://i.imgur.com/9f9styJ.png) 
 
 ---
 
